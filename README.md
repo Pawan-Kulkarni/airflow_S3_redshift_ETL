@@ -21,3 +21,5 @@ After that , log and song data should be stored in staging tables.
 We then will carry out ETL process and fill the data in facts and dimensional tables. 
 Lastly , we will carry out some data quality checks .
 The workflow for this entire dag process in shown below:
+
+![Dag workflow](https://github.com/Pawan-Kulkarni/airflow_S3_redshift_ETL/blob/main/example-dag.png?raw=true)
